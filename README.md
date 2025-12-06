@@ -9,13 +9,13 @@
 [![Modelado supervisado](https://img.shields.io/badge/Modelado-Supervisado-FF9800?style=for-the-badge&logo=mlflow)]()  
 [![Documentación](https://img.shields.io/badge/Documentación-Notebook-795548?style=for-the-badge&logo=jupyter)]()  
 [![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-E91E63?style=for-the-badge&logo=streamlit)]()  
+[![API](https://img.shields.io/badge/🔌_API-Disponible-blue?style=for-the-badge)]()
 ---
 ## 👥 Integrantes del Proyecto.
 - **Sharon Obando Gómez**
 - **Marco Alvarez Quirós**
 - **Eunice Brenes Granados**
 - **Kristel Hernández Mena**
-
 ---
 ## 📝 Descripción del Proyecto.
 Este repositorio corresponde al tercer examen del curso **Programación II**. El objetivo de nuestro proyecto es:
@@ -33,6 +33,8 @@ El proyecto contiene:
 📊 Generar visualizaciones utilizando matplotlib.
 
 🧱 Modelado Supervisado.
+
+🔌 Consumir datos desde una API.
 
 📓 Documentar y presentar resultados con notebook.
 
@@ -78,10 +80,9 @@ Link: https://www.ict.go.cr/es/estadisticas/informes-estadisticos.html
 ```
 ---
 
-## 📢 API de Clima: Open-Meteo
+## 🔌 API de Clima: Open-Meteo
 ```
 Link: https://open-meteo.com/
 ```
 ---
-
 **Este proyecto es únicamente para fines académicos como parte de nuestro Examen III de Programación - Big Data.**
